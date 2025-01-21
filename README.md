@@ -1,6 +1,3 @@
-github readme for pterodacyl game server eggs. # pterodactyl-eggs collection of json based pterodactyl eggs for games I did not existing ones for counter strike source
-Sure thing! Here's a draft for your GitHub README:
-
 Pterodactyl Game Server Eggs
 Welcome to the Pterodactyl Game Server Eggs repository! This collection includes JSON-based Pterodactyl eggs for various games that did not have existing ones. Each egg is designed to simplify the deployment and management of game servers using the Pterodactyl panel.
 
